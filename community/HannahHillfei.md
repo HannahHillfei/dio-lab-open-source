@@ -1,6 +1,7 @@
 # 👩🏻‍🎓 Hannah Yan
 
-Olá a Todos! Gosto bastante da Área de Desenvolvimento Web e por isso estou me aprofundando nos estudos de Front-End e Back-end. Estou me esforçando para conseguir a tão sonhada vaga de emprego nesse ramo. 
+Olá a Todos! Gosto bastante da Área de Desenvolvimento Web e por isso estou me aprofundando nos estudos de Front-End e Back-end. 
+Estou me esforçando para conseguir a tão sonhada vaga de emprego nesse ramo. 
 
 ## 📱Minhas Redes Sociais 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-yan-9b03a32a1/) 
